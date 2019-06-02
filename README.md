@@ -2,6 +2,7 @@
 xmissy todo list
 
 ## 语言
+* python
 * go
 * java
 * php
@@ -9,6 +10,7 @@ xmissy todo list
 * [html+js+css](https://github.com/lianghongle/html-css-js)
 
 ## 框架
+* 微信小程序
 * YII2
 * thinkphp5
 * [swoole:xmissy_swoole](https://github.com/lianghongle/xmissy_swoole)
